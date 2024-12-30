@@ -25,19 +25,18 @@ const App = () => {
   };
 
   return (
-    <div style={{ textAlign: "center", marginTop: "50px" }}>
+    <div>
       <h1>Baby Birth Recorder</h1>
       <button
         onClick={() => {
           getPosition();
           recordBirthDetails(); 
         }}
-        style={{ padding: "10px 20px" }}
       >
         Record Birth Time
       </button>
       {record && (
-        <div style={{ marginTop: "20px" }}>
+        <div>
           <p>
             <strong>Recorded Time:</strong> {record.time}
           </p>
