@@ -1,4 +1,5 @@
 import React, { useState } from "react";
+import "./App.css";
 import { useGeolocated } from "react-geolocated";
 
 const App = () => {
@@ -25,7 +26,7 @@ const App = () => {
   };
 
   return (
-    <div>
+    <div className="main">
       <h1>Baby Birth Recorder</h1>
       <button
         onClick={() => {
