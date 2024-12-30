@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/baby-birth-recorder/static/css/main.e6c13ad2.css",
-    "main.js": "/baby-birth-recorder/static/js/main.850f78dc.js",
+    "main.js": "/baby-birth-recorder/static/js/main.6f2517eb.js",
     "static/js/156.99bd9c7a.chunk.js": "/baby-birth-recorder/static/js/156.99bd9c7a.chunk.js",
     "index.html": "/baby-birth-recorder/index.html",
     "main.e6c13ad2.css.map": "/baby-birth-recorder/static/css/main.e6c13ad2.css.map",
-    "main.850f78dc.js.map": "/baby-birth-recorder/static/js/main.850f78dc.js.map",
+    "main.6f2517eb.js.map": "/baby-birth-recorder/static/js/main.6f2517eb.js.map",
     "156.99bd9c7a.chunk.js.map": "/baby-birth-recorder/static/js/156.99bd9c7a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.850f78dc.js"
+    "static/js/main.6f2517eb.js"
   ]
 }
